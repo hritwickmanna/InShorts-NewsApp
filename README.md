@@ -4,4 +4,4 @@ InShorts is a news app that selects latest and best news from multiple national 
 Android app download link - https://expo.dev/artifacts/eas/iFFFNeqiZsBGwpNjnneJSa.aab
 
 # Features
-![1](https://user-images.githubusercontent.com/69580700/200682870-f4dd9851-8d2a-4c28-b4cd-1bfc92ebfeda.png) efef
+![2](https://user-images.githubusercontent.com/69580700/200686665-612804f7-3dbc-40d4-a225-699fe46d0f87.png)
