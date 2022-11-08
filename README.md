@@ -13,4 +13,9 @@ Discover Page/Tab
 
 ![1](https://user-images.githubusercontent.com/69580700/200692107-be7228d6-cb48-40d3-9f5c-93360765c603.png)
 
+# Architecture
+
+![2](https://user-images.githubusercontent.com/69580700/200693731-cc7cbc44-634f-44e5-aa16-bd2240bdd09e.png)
+
+
 
