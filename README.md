@@ -19,5 +19,7 @@ Android app download link - https://expo.dev/artifacts/eas/iFFFNeqiZsBGwpNjnneJ
 
 Fetched news from this API: https://saurav.tech/NewsAPI/ used in API/Context.js, as shown above.
 
+# Improvement
+
 
 
