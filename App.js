@@ -1,11 +1,31 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { useContext } from "react";
+import { StyleSheet, View, StatusBar } from "react-native";
+import Context, { NewsContext } from "./API/Context";
+import InshortTabs from "./components/InshortTabs";
+import Parse from "parse/react-native.js";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
-export default function App() {
+//Deploying APIs to back4app
+
+//Initilizing SDK
+Parse.setAsyncStorage(AsyncStorage);
+//copying application ID and JAVA ID
+Parse.initialize(
+  "I4JAIhx30xrAvNIrbFGC2F3Hnuk0EQdrKjRYDime",
+  "2PkZv84He6LcWpembNknR3fzCLBlFIVrtpEOLKVY"
+);
+Parse.serverURL = "https://parseapi.back4app.com/";
+
+function App() {
+  const { darkTheme } = useContext(NewsContext);
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+    <View
+      style={{
+        ...styles.container,
+        backgroundColor: darkTheme ? "#282C35" : "white",
+      }}
+    >
+      <InshortTabs />
     </View>
   );
 }
@@ -13,8 +33,14 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    marginTop: StatusBar.currentHeight,
   },
 });
+
+export default () => {
+  return (
+    <Context>
+      <App />
+    </Context>
+  );
+};
