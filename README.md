@@ -5,11 +5,11 @@ Android app download link - https://expo.dev/artifacts/eas/iFFFNeqiZsBGwpNjnneJ
 
 # Features
 
-## All News Page/Tab
+### All News Page/Tab
 
 ![6](https://user-images.githubusercontent.com/69580700/200688824-dfab4f2e-a340-4267-8720-9edd73ef63c7.png)
 
-## Discover Page/Tab
+### Discover Page/Tab
 
 ![1](https://user-images.githubusercontent.com/69580700/200692107-be7228d6-cb48-40d3-9f5c-93360765c603.png)
 
