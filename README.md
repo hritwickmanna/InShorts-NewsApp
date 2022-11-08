@@ -17,7 +17,7 @@ Discover Page/Tab
 
 ![2](https://user-images.githubusercontent.com/69580700/200693731-cc7cbc44-634f-44e5-aa16-bd2240bdd09e.png)
 
-Fetched news from this API: https://saurav.tech/NewsAPI/
+Fetched news from this API: https://saurav.tech/NewsAPI/ used under API/Context.js as shown above
 
 
 
