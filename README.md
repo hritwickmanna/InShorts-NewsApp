@@ -27,6 +27,16 @@ Fetched news from this API: https://saurav.tech/NewsAPI/ used in API/Context.js,
 
 3. Bookmark a particular page and save it for later.
 
+## Tech Stacks Used
+
+JavaScript
+
+React-Native
+
+API Integration
+
+AndroidStudio
+
 
 
 
