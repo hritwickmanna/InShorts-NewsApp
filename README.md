@@ -5,7 +5,7 @@ Demo of the app - https://drive.google.com/file/d/1zZnTCqA1JUuYCbm-NK5zOviD5zEqA
 
 Codebase explanation - https://drive.google.com/file/d/1Y0AKlkcN9j68B_wrSpWjbU9XZ8CX0i11/view?usp=sharing
 
-Android app download link - https://expo.dev/artifacts/eas/iFFFNeqiZsBGwpNjnneJSa.aab
+Android app download link - https://expo.dev/artifacts/eas/iFFFNeqiZsBGwpNjnneJSa.aab (App-Bundle)
 
 ## Features
 
