@@ -7,6 +7,8 @@ Codebase explanation - https://drive.google.com/file/d/1Y0AKlkcN9j68B_wrSpWjbU9X
 
 Android app download link - https://expo.dev/artifacts/cd7b06c3-b0c6-4d50-8af1-1da2454acb31
 
+Download and install the above link directly on your Android phone.
+
 ## Features
 
 #### All News Page/Tab
