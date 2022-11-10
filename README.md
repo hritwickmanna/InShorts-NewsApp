@@ -23,7 +23,7 @@ Download and install the above link directly on your Android phone.
 
 ![2](https://user-images.githubusercontent.com/69580700/200693731-cc7cbc44-634f-44e5-aa16-bd2240bdd09e.png)
 
-Fetched news from this API: https://saurav.tech/NewsAPI/ used in API/Context.js, as shown above.
+Fetched news from this API: https://bit.ly/InShortsNewsAPI used in API/Context.js, as shown above.
 
 ## Improvements
 
