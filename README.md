@@ -35,6 +35,8 @@ Fetched news from this API: https://saurav.tech/NewsAPI/ used in API/Context.js,
 
 ## Tech Stacks Used
 
+CSS
+
 JavaScript
 
 React-Native
