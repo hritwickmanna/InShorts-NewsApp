@@ -1,7 +1,7 @@
 # InShorts
 InShorts is a news app that selects latest and best news from multiple national and international sources and summarises them to present in a short and crisp 60 words or less format.
 
-Demo of the app - https://drive.google.com/file/d/1zZnTCqA1JUuYCbm-NK5zOviD5zEqA4xR/view?usp=sharing
+Demo of the app - https://bit.ly/InShortsDemo
 
 Codebase explanation - https://drive.google.com/file/d/1Y0AKlkcN9j68B_wrSpWjbU9XZ8CX0i11/view?usp=sharing
 
