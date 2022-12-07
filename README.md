@@ -46,4 +46,4 @@ React-Native
 
 API Integration
 
-AndroidStudio
+Android Studio
